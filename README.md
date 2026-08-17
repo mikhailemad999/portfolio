@@ -54,7 +54,7 @@ Results-driven **AI Engineer and Full Stack Developer** with **2+ years of exper
 
 ## 📬 Contact & Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/mikhailemad](https://www.linkedin.com/in/mikhailemad)
+- 💼 **LinkedIn**: [linkedin.com/in/mikhail-emad-b67805372](https://www.linkedin.com/in/mikhail-emad-b67805372)
 - 🐙 **GitHub**: [@mikhailemad999](https://github.com/mikhailemad999)
 - ✉️ **Email**: [Mikhailemad999@gmail.com](mailto:Mikhailemad999@gmail.com)
 - 📱 **Phone / WhatsApp**: (+20) 128 998 1076

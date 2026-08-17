@@ -443,8 +443,8 @@ function initTerminal() {
   <span style="color: #38bdf8;">clear</span>        - Clear terminal screen
     `,
     'linkedin': () => {
-      window.open('https://www.linkedin.com/in/mikhailemad', '_blank');
-      return `<div style="color: #38bdf8; font-weight: bold;">✔ Opening LinkedIn Profile: https://www.linkedin.com/in/mikhailemad</div>`;
+      window.open('https://www.linkedin.com/in/mikhail-emad-b67805372', '_blank');
+      return `<div style="color: #38bdf8; font-weight: bold;">✔ Opening LinkedIn Profile: https://www.linkedin.com/in/mikhail-emad-b67805372</div>`;
     },
     'petra': () => `
 <div style="color: var(--matrix-emerald); font-weight: bold;">[PETRA SOFTWARE - 2025 TO PRESENT]</div>

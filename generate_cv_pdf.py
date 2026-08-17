@@ -198,7 +198,7 @@ def generate_exact_altacv_pdf(output_path="Mikhail_Emad_Resume_2026.pdf"):
     story.append(Spacer(1, 2))
     story.append(Paragraph("* New Cairo, Egypt &nbsp;&nbsp;&nbsp; * (+20) 128 998 1076 &nbsp;&nbsp;&nbsp; * Mikhailemad999@gmail.com", contact_info_style))
     story.append(Spacer(1, 1.5))
-    story.append(Paragraph('<font color="#1d4ed8"><u><a href="https://www.linkedin.com/in/mikhailemad">LinkedIn</a></u></font> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#1d4ed8"><u><a href="https://github.com/mikhailemad999">GitHub</a></u></font>', links_line_style))
+    story.append(Paragraph('<font color="#1d4ed8"><u><a href="https://www.linkedin.com/in/mikhail-emad-b67805372">LinkedIn</a></u></font> &nbsp;&nbsp;&nbsp;&nbsp; <font color="#1d4ed8"><u><a href="https://github.com/mikhailemad999">GitHub</a></u></font>', links_line_style))
     story.append(Spacer(1, 2))
     story.append(HRFlowable(width="100%", thickness=0.8, color=RULE_COLOR, spaceAfter=5, spaceBefore=1))
 
